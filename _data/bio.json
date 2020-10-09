@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://amckee25.github.io/images/Portfolio Image.jpg",
     "email": "mckeea@hawaii.edu",
-    "phone": "808-333-4444",
     "website": "https://amckee25.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
@@ -22,18 +21,18 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": ,
+        "url": "https://www.linkedin.com/in/alex-a-mckee/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "_",
+        "url": "_"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "_",
+        "url": "_"
       }
     ]
   },
@@ -89,33 +88,40 @@
       "startDate": "2020-08-27",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses":
+      
+      "institution": "East Carolina University, Greenville, NC",
+      "area": "Public Health",
+      "studyType": "B.S.",
+      "startDate": "2014-05-05",
+      "endDate": "2010-08-25",
+      "gpa": "3.43",
+      "courses":[
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Dollar Tree Distribution Center",
+      "position": "Receiving Manager",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-04-01",
+      "endDate": "2019-12-15",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Manager in charge of all receiving operations. Managed storage zones with inbound dock doors. Managed yard with specified freight to optimal unload doors and the proximity of the product location in the building. Significantly reduced trailer unload times, travel distance and labor cost."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "United States Army",
+      "position": "Engineer Officer",
+      "website": "",
+      "startDate": "2015-10-05",
+      "endDate": "2019-04-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        ""
       ]
     }
   ],
@@ -148,16 +154,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": " "
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
