@@ -38,19 +38,18 @@
   },
   "interests": [
     {
-      "name": "algorithms",
+      "name": "Algorithms",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -88,16 +87,16 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-    ]
-    },
+       ]
+      },
     {
       "institution": "East Carolina University, Greenville, NC",
       "area": "Public Health",
       "studyType": "B.S. ",
-      "startDate": "2014-05-05",
-      "endDate": "2010-08-25",
+      "startDate": "2010-08-25",
+      "endDate": "2014-05-05",
       "gpa": "3.43",
-      "courses":[
+      "courses": [
       ]
     }
   ],
