@@ -83,15 +83,18 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
-      "studyType": "B.S.",
+      "studyType": "B.S. ",
       "startDate": "2020-08-27",
       "endDate": "Present",
-      "gpa": "",
-      "courses": "",
+      "gpa": "Pending ",
+      "courses": ""[
+    ]
+    },
+    {
       
       "institution": "East Carolina University, Greenville, NC",
       "area": "Public Health",
-      "studyType": "B.S.",
+      "studyType": "B.S. ",
       "startDate": "2014-05-05",
       "endDate": "2010-08-25",
       "gpa": "3.43",
