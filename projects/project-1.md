@@ -18,7 +18,7 @@ summary: The stock market creates technical patterns that is trackable. My proje
   <img class="ui image" src="../images/LargeCap.png">
 </div>
 
-https://docs.google.com/spreadsheets/d/1ECfaxhLXIyi7Ud5WljufBUhqIzeofnzEPSZzXcLNQ-Q/edit?usp=sharing
+
 
 
 
