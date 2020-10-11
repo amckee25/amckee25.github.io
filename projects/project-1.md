@@ -14,9 +14,8 @@ labels:
 summary: The stock market creates technical patterns that is trackable. My project is about collecting data on potential low risk/high reward trades. 
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/LargeCap.png">
-</div>
+
 
 
 
