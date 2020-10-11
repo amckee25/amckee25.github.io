@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ZMCapture.png
+image: images/ZMCapture.PNG
 title: Large Cap Data Tracking 
 permalink: projects/Large Cap Data Tracking
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: The stock market creates technical patterns that is trackable. My project is about collecting data on potential low risk/high reward trades. 
 ---
 
-  <img class="ui image" src="../images/LargeCap.png">
+  <img class="ui image" src="../images/LargeCap.PNG">
 
 
 
