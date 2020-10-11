@@ -114,39 +114,51 @@
     },
     {
       "company": "United States Army",
-      "position": "Engineer Officer",
+      "position": "Orgnization's Logistics Officer",
       "website": "",
-      "startDate": "2015-10-05",
+      "startDate": "2018-05-01",
       "endDate": "2019-04-01",
-      "summary": "",
+      "summary": "", 
       "highlights": [
+        "Officer in charge of Deployment Operations for 550 Soldiers. Coordinated all internal logistics within the Organization ensuring all critical operations for the organization were properly resourced through detailed planning efforts. Responsible for monitoring and tracking expenses for the Rear Provisional, 3 Dive Detachments and Fire Detachment. Served as the Assistant Billing Officer auditing and managing the Organizations Purchase Card.",
       ]
+    },
+    {
+      "company": "United States Army",
+      "position": "Company Section Leader",
+      "website": "",
+      "startDate": "2017-02-01",
+      "endDate": "2018-05-01",
+      "summary": "", 
+      "highlights": [    
+        "Planned, resource, execute and assess horizontal construction projects, training in mobility, survivability, and general engineering to support 3rd Infantry Division, Directorate of Public Works, and the city of Hinesville, Georgia. Supervised the training and discipline of 39-person team. Maintained, inventoried and accountable for $6 million worth of vehicles, tools, and equipment.",
+        ]
     }
-  ],
+      ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
