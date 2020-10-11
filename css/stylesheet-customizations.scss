@@ -20,3 +20,15 @@ body {
   color: darken(lightsteelblue, 20%);
 }
 
+// borders 
+h1 {
+  border: 5px solid snow;
+}
+
+h2 {
+  border: 4px dotted snow;
+}
+
+div {
+  border: double;
+}
