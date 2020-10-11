@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/ZMCapture.png
 title: Large Cap Data Tracking 
 permalink: projects/Large Cap Data Tracking
 # All dates must be YYYY-MM-DD format!
