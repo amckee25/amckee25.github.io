@@ -28,14 +28,9 @@
         "network": "twitter",
         "username": "_",
         "url": "_"
-      },
-      {
-        "network": "instagram",
-        "username": "_",
-        "url": "_"
+     ]
       }
-    ]
-  },
+   ],
   "interests": [
     {
       "name": "Algorithms",
